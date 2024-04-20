@@ -66,9 +66,7 @@ nav {
     height: 90px;
 }
 
-.nav-logo-container {
-   margin-left: 50px; 
-}
+
 
 .nav-logo-container img {
   width: 220px;  
@@ -82,10 +80,6 @@ nav {
     margin-right: 50px;
 }
 
-.profile-link a {
-    color: black;
-    border-bottom: 1px solid black;
-}
 
 .home-main {
   display: grid;
@@ -205,4 +199,25 @@ margin-top: 30px;
 
 }
 
+.p {
+  width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 2rem;
+  margin: 0 auto;
+  font-family: "Courier New";
+  border-right: 0.15em solid #191919;
+  animation:  escribir 3s steps(30) infinite alternate;
+  color: #e6e9ed;
+}
+@keyframes escribir {
+    from { width: 100% }
+    to { width:0 }
+}
 
+.imagen-logo{
+    width: 12vh;
+    filter: brightness(1.1);
+    mix-blend-mode:multiply ;
+    justify-content: space-between;
+}
