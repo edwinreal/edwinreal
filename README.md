@@ -1,2 +1,2 @@
-# portafolio
-Portafolio de proyectos personale y de muchas de mis paciones y proyectos de vida y mejora
+# portafolio-personal
+En este portafolio subire todos mis proyectos y mis trabjos realizados 
