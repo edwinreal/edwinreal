@@ -63,7 +63,7 @@ header .icons span {
 nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    height: 90px;
+   
 }
 
 
