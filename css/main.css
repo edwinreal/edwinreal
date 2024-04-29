@@ -221,3 +221,25 @@ margin-top: 30px;
     mix-blend-mode:multiply ;
     justify-content: space-between;
 }
+
+.img-thumbnail{
+    width: 20vw;
+    border-radius: 50%;
+   
+}
+
+
+.const{
+    border: solid;
+    padding: 2vh;
+    margin-top: 2vh;
+    
+}
+
+.cm{
+    border: solid;
+}
+
+.container{
+    border: solid;
+}
